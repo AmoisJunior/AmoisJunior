@@ -55,7 +55,6 @@ Atualmente, busco oportunidades **remotas** na área de **TI e Desenvolvimento W
 
 ###
 
----
 
 
 <div align=center>
