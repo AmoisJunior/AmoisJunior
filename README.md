@@ -43,6 +43,8 @@ Atualmente, busco oportunidades **remotas** na área de **TI e Desenvolvimento W
 - 💻 **Desenvolvedor PHP** – Criação de CRUDs, autenticação, dashboards e sistemas com Laravel.
 - 🧠 **Estudos Atuais:** Redes, MySQL avançado, Laravel, JavaScript.
 
+---
+
 ### 📊 Estatísticas 
 
 <p> 
