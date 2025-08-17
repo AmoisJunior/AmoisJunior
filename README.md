@@ -8,7 +8,8 @@ Atualmente, busco oportunidades **remotas** na área de **TI e Desenvolvimento W
 
 ---
 
-📫 **Entre em contato:**
+### 📫 Entre em contato:
+
 - 📧 Email: amoishenrique49@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/amois-henrique](https://www.linkedin.com/in/amois-henrique-10334a233/)
 - 📁 Portfólio: [github.com/AmoisJunior](https://github.com/AmoisJunior)
@@ -41,4 +42,25 @@ Atualmente, busco oportunidades **remotas** na área de **TI e Desenvolvimento W
 - 💡 **Suporte Help Desk** – Atendimento com TeamViewer/AnyDesk.
 - 💻 **Desenvolvedor PHP** – Criação de CRUDs, autenticação, dashboards e sistemas com Laravel.
 - 🧠 **Estudos Atuais:** Redes, MySQL avançado, Laravel, JavaScript.
+
+### 📊 Estatísticas 
+
+<p> 
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=AmoisJuninor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmoisJunior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
+</p>
+<br/>
+<br/>
+
+
+###
+
+---
+
+
+<div align=center>
+  
+  <img src="https://raw.githubusercontent.com/AmoisJunior/AmoisJunior/output/snake.svg" alt="Snake animation" />
+  
+</div>
 
